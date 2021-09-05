@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/reactcasparclient/static/css/main.45c98fc1.chunk.css",
-    "main.js": "/reactcasparclient/static/js/main.03c5f191.chunk.js",
-    "main.js.map": "/reactcasparclient/static/js/main.03c5f191.chunk.js.map",
-    "runtime-main.js": "/reactcasparclient/static/js/runtime-main.b291f991.js",
-    "runtime-main.js.map": "/reactcasparclient/static/js/runtime-main.b291f991.js.map",
-    "static/css/2.27175f2b.chunk.css": "/reactcasparclient/static/css/2.27175f2b.chunk.css",
-    "static/js/2.92014b11.chunk.js": "/reactcasparclient/static/js/2.92014b11.chunk.js",
-    "static/js/2.92014b11.chunk.js.map": "/reactcasparclient/static/js/2.92014b11.chunk.js.map",
-    "static/js/3.c37f5ea4.chunk.js": "/reactcasparclient/static/js/3.c37f5ea4.chunk.js",
-    "static/js/3.c37f5ea4.chunk.js.map": "/reactcasparclient/static/js/3.c37f5ea4.chunk.js.map",
-    "index.html": "/reactcasparclient/index.html",
-    "static/css/2.27175f2b.chunk.css.map": "/reactcasparclient/static/css/2.27175f2b.chunk.css.map",
-    "static/css/main.45c98fc1.chunk.css.map": "/reactcasparclient/static/css/main.45c98fc1.chunk.css.map",
-    "static/js/2.92014b11.chunk.js.LICENSE.txt": "/reactcasparclient/static/js/2.92014b11.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.45c98fc1.chunk.css",
+    "main.js": "/static/js/main.03c5f191.chunk.js",
+    "main.js.map": "/static/js/main.03c5f191.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e21f071d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e21f071d.js.map",
+    "static/css/2.27175f2b.chunk.css": "/static/css/2.27175f2b.chunk.css",
+    "static/js/2.04b9a3a9.chunk.js": "/static/js/2.04b9a3a9.chunk.js",
+    "static/js/2.04b9a3a9.chunk.js.map": "/static/js/2.04b9a3a9.chunk.js.map",
+    "static/js/3.c37f5ea4.chunk.js": "/static/js/3.c37f5ea4.chunk.js",
+    "static/js/3.c37f5ea4.chunk.js.map": "/static/js/3.c37f5ea4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.27175f2b.chunk.css.map": "/static/css/2.27175f2b.chunk.css.map",
+    "static/css/main.45c98fc1.chunk.css.map": "/static/css/main.45c98fc1.chunk.css.map",
+    "static/js/2.04b9a3a9.chunk.js.LICENSE.txt": "/static/js/2.04b9a3a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b291f991.js",
+    "static/js/runtime-main.e21f071d.js",
     "static/css/2.27175f2b.chunk.css",
-    "static/js/2.92014b11.chunk.js",
+    "static/js/2.04b9a3a9.chunk.js",
     "static/css/main.45c98fc1.chunk.css",
     "static/js/main.03c5f191.chunk.js"
   ]
