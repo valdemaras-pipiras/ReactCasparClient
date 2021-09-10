@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactCasparClient/static/css/main.3fe8d25f.chunk.css",
-    "main.js": "/ReactCasparClient/static/js/main.1aa83343.chunk.js",
-    "main.js.map": "/ReactCasparClient/static/js/main.1aa83343.chunk.js.map",
+    "main.js": "/ReactCasparClient/static/js/main.81de9354.chunk.js",
+    "main.js.map": "/ReactCasparClient/static/js/main.81de9354.chunk.js.map",
     "runtime-main.js": "/ReactCasparClient/static/js/runtime-main.4098233b.js",
     "runtime-main.js.map": "/ReactCasparClient/static/js/runtime-main.4098233b.js.map",
     "static/css/2.27175f2b.chunk.css": "/ReactCasparClient/static/css/2.27175f2b.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.27175f2b.chunk.css",
     "static/js/2.d7cfc533.chunk.js",
     "static/css/main.3fe8d25f.chunk.css",
-    "static/js/main.1aa83343.chunk.js"
+    "static/js/main.81de9354.chunk.js"
   ]
 }
