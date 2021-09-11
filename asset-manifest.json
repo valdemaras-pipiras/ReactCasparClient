@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/ReactCasparClient/static/css/main.3fe8d25f.chunk.css",
-    "main.js": "/ReactCasparClient/static/js/main.883334b1.chunk.js",
-    "main.js.map": "/ReactCasparClient/static/js/main.883334b1.chunk.js.map",
+    "main.js": "/ReactCasparClient/static/js/main.0c1534b7.chunk.js",
+    "main.js.map": "/ReactCasparClient/static/js/main.0c1534b7.chunk.js.map",
     "runtime-main.js": "/ReactCasparClient/static/js/runtime-main.471a109d.js",
     "runtime-main.js.map": "/ReactCasparClient/static/js/runtime-main.471a109d.js.map",
     "static/css/2.27175f2b.chunk.css": "/ReactCasparClient/static/css/2.27175f2b.chunk.css",
-    "static/js/2.88113822.chunk.js": "/ReactCasparClient/static/js/2.88113822.chunk.js",
-    "static/js/2.88113822.chunk.js.map": "/ReactCasparClient/static/js/2.88113822.chunk.js.map",
+    "static/js/2.580c96a2.chunk.js": "/ReactCasparClient/static/js/2.580c96a2.chunk.js",
+    "static/js/2.580c96a2.chunk.js.map": "/ReactCasparClient/static/js/2.580c96a2.chunk.js.map",
     "static/js/3.50965f59.chunk.js": "/ReactCasparClient/static/js/3.50965f59.chunk.js",
     "static/js/3.50965f59.chunk.js.map": "/ReactCasparClient/static/js/3.50965f59.chunk.js.map",
     "index.html": "/ReactCasparClient/index.html",
     "static/css/2.27175f2b.chunk.css.map": "/ReactCasparClient/static/css/2.27175f2b.chunk.css.map",
     "static/css/main.3fe8d25f.chunk.css.map": "/ReactCasparClient/static/css/main.3fe8d25f.chunk.css.map",
-    "static/js/2.88113822.chunk.js.LICENSE.txt": "/ReactCasparClient/static/js/2.88113822.chunk.js.LICENSE.txt"
+    "static/js/2.580c96a2.chunk.js.LICENSE.txt": "/ReactCasparClient/static/js/2.580c96a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.471a109d.js",
     "static/css/2.27175f2b.chunk.css",
-    "static/js/2.88113822.chunk.js",
+    "static/js/2.580c96a2.chunk.js",
     "static/css/main.3fe8d25f.chunk.css",
-    "static/js/main.883334b1.chunk.js"
+    "static/js/main.0c1534b7.chunk.js"
   ]
 }
